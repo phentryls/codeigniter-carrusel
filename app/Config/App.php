@@ -22,7 +22,7 @@ class App extends BaseConfig
      * explicitly and never rely on auto-guessing, especially in production
      * environments.
      */
-    public string $baseURL = 'https://localhost/codeigniter4/';
+    public string $baseURL = 'http://oscaralas.com/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
@@ -47,7 +47,7 @@ class App extends BaseConfig
      * something else. If you are using mod_rewrite to remove the page set this
      * variable so that it is blank.
      */
-    public string $indexPage = 'index.php';
+    public string $indexPage = '';
 
     /**
      * --------------------------------------------------------------------------

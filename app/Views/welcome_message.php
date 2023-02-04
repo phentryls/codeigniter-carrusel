@@ -13,7 +13,7 @@
     
 
     <!-- Bootstrap core CSS -->
-<link href="../public/assets/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -33,7 +33,7 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="../public/css/carousel.css" rel="stylesheet">
+    <link href="/css/carousel.css" rel="stylesheet">
   </head>
   <body>
     
@@ -75,7 +75,7 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="../public/images/home/cloud-computing-gc175bd1f7_1280.png">
+        <img src="/images/home/cloud-computing-gc175bd1f7_1280.png">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
 
         <div class="container">
@@ -87,7 +87,7 @@
         </div>
       </div>
       <div class="carousel-item">
-      <img src="../public/images/home/coding-gb2910c475_1920.jpg">
+      <img src="/images/home/coding-gb2910c475_1920.jpg">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
 
         <div class="container">
@@ -99,7 +99,7 @@
         </div>
       </div>
       <div class="carousel-item">
-      <img src="../public/images/home/web-gdb6e3707e_1920.png">
+      <img src="/images/home/web-gdb6e3707e_1920.png">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
 
         <div class="container">
@@ -210,7 +210,7 @@
 </main>
 
 
-    <script src="../public/assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/dist/js/bootstrap.bundle.min.js"></script>
 
       
   </body>

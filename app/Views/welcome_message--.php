@@ -230,6 +230,9 @@
 
 <!-- CONTENT -->
 
+
+<img src="/images/home/web-gdb6e3707e_1920.png">
+
 <section>
 
     <h1>About this page</h1>
